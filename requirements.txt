@@ -7,7 +7,6 @@ plotly
 yfinance
 pandas-datareader
 prophet
-to_pandas
 #name: app_environment
 #channels:
  # - snowflake
