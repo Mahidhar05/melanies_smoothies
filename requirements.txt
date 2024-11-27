@@ -1,5 +1,5 @@
 # requirements.txt
-snowflake-snowpark-python
+snowflake-snowpark-python == 3.10
 streamlit
 requests
 #name: app_environment
