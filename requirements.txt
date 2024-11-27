@@ -1,5 +1,4 @@
 # requirements.txt
-pip3 install pyOpenSSL
 snowflake-snowpark-python
 streamlit
 requests
