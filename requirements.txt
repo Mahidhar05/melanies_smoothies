@@ -1,4 +1,7 @@
 # requirements.txt
+sudo apt remove python3-pip 
+wget https://bootstrap.pypa.io/get-pip.py
+sudo python3 get-pip.py
 pip3 install pyOpenSSL
 snowflake-snowpark-python
 streamlit
