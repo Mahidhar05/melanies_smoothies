@@ -1,4 +1,5 @@
 # Import python packages 
+pip3 install pyOpenSSL
 import streamlit as st
 from snowflake.snowpark.functions import col
 import requests
