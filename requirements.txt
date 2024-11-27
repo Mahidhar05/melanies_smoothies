@@ -3,6 +3,10 @@ snowflake-snowpark-python
 streamlit
 requests
 pandas
+plotly
+yfinance
+pandas-datareader
+prophet
 #name: app_environment
 #channels:
  # - snowflake
