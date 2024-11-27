@@ -1,13 +1,7 @@
 # requirements.txt
 snowflake-snowpark-python
-snowflake-connector-python
 streamlit
 requests
-pandas
-plotly
-yfinance
-pandas-datareader
-prophet
 #name: app_environment
 #channels:
  # - snowflake
